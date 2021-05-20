@@ -20,5 +20,6 @@
       "capacity":10000,
       "availableDate":"2021-06-01"
    }
-]
+  ],
+  "register": {"status": "SUCCESS"}
 }
