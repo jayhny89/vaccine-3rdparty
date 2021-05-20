@@ -21,5 +21,7 @@
       "availableDate":"2021-06-01"
    }
   ],
-  "register": {"status": "SUCCESS"}
+  "register": [
+    {"status": "SUCCESS", "postId": 1}
+   ]
 }
